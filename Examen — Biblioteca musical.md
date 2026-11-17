@@ -22,7 +22,7 @@ Entregar un archivo por ejercicio: `ejercicio_01.py` … `ejercicio_10.py`. La r
 
 ## Datos de prueba
 
-| id | titulo | artista | album | genero | anio | duracion_seg |
+| id | titulo | artista | album | genero | anio | duracion_seg | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | De Musica Ligera | Soda Stereo | Cancion Animal | Rock | 1990 | 213 |
 | 12 | Jijiji | Patricio Rey y sus Redonditos de Ricota | Un Baion para el Ojo Idiota | Rock | 1988 | 316 |
