@@ -85,3 +85,5 @@ def cargar_canciones_csv (ruta)
                 biblioteca.agregar (cancion)
 
     return biblioteca
+
+    #RTA Teorica: Si, porque en un CSV las filas tienen distinto largo
